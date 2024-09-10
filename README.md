@@ -24,21 +24,18 @@
 
 ---
 
-<h3 align="left">Technologies & Tools</h3>
-<p align="left">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c-language"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html5"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="sql"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/photoshop/photoshop.png" alt="photoshop"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/illustrator/illustrator.png" alt="illustrator"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png" alt="powerbi"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" alt="tableau"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" alt="figma"></code>
-</p>
+
+### 🛠️ Technologies & Tools
+
+| Category        | Tools                                               |
+|-----------------|-----------------------------------------------------|
+| **Languages**   | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| **Frontend**    | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Design**      | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Databases**   | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) |
+| **Data Analysis**| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) |
+
+---
 
 ---
 
