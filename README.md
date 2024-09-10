@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Omer Faruk Celik</h1>
 <h3 align="center">A passionate Developer, studing at York University</h3>
 
