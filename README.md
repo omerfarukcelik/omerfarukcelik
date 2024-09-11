@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **Football Analytics Project**
 - 🌱 I’m currently learning **SQL, Power BI and Tableau**
 - 👨‍💻 All of my projects are available at **Still in Development :)**
-- 💬 Ask me about **Graphic Designing, Data Analatics and Software Development**
+- 💬 Ask me about **Graphic Designing, Data Analytics and Software Development**
 - 📫 How to reach me **faruk.omerc@gmail.com**
 - ⚡ Fun fact: **I am in love with the football**
 
