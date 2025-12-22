@@ -15,7 +15,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Football Analytics Project**
 - 🌱 I’m currently learning **SQL, Power BI and Tableau**
 - 👨‍💻 All of my projects are available at **Still in Development :)**
 - 💬 Ask me about **Graphic Designing, Data Analytics and Software Development**
