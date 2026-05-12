@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Omer Faruk Celik 👋</h1>
 <p align="center">
   <b>Full-Stack Developer · Toronto, ON</b><br/>
-  <i>I've always wanted to know how things work under the hood — tech turned out to be the perfect place for that curiosity.</i>
+  <i>I've always wanted to know how things work under the hood; tech turned out to be the perfect place for that curiosity.</i>
 </p>
 
 <p align="center">
