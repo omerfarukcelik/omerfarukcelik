@@ -1,26 +1,52 @@
 import random
+import json
+import textwrap
 from pathlib import Path
 
-readme_path = Path("README.md")
-quotes_path = Path("quotes.txt")
+QUOTES_PATH = Path("quotes.txt")
+THEMES_PATH = Path("data/themes.json")
+SVG_PATH = Path("assets/quote.svg")
 
-start_marker = "<!--QUOTE_START-->"
-end_marker = "<!--QUOTE_END-->"
+THEME_NAME = "tokyonight"
 
-readme = readme_path.read_text(encoding="utf-8")
-quotes = [
-    quote.strip()
-    for quote in quotes_path.read_text(encoding="utf-8").splitlines()
-    if quote.strip()
-]
+quotes = [line.strip() for line in QUOTES_PATH.read_text(encoding="utf-8").splitlines() if line.strip()]
 
-selected_quote = random.choice(quotes)
+selected = random.choice(quotes)
 
-new_section = f"{start_marker}\n> {selected_quote}\n{end_marker}"
+if " — " in selected:
+    quote, author = selected.split(" — ", 1)
+else:
+    quote, author = selected, "Unknown"
 
-start_index = readme.index(start_marker)
-end_index = readme.index(end_marker) + len(end_marker)
+themes = json.loads(THEMES_PATH.read_text(encoding="utf-8"))
+theme = themes[THEME_NAME]
 
-updated_readme = readme[:start_index] + new_section + readme[end_index:]
+wrapped_quote = textwrap.wrap(quote, width=58)
 
-readme_path.write_text(updated_readme, encoding="utf-8")
+svg_lines = []
+start_y = 85
+
+for i, line in enumerate(wrapped_quote):
+    svg_lines.append(
+        f'<tspan x="70" y="{start_y + i * 45}">{line}</tspan>'
+    )
+
+author_y = start_y + len(wrapped_quote) * 55 + 25
+
+svg = f'''<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="300" rx="18" fill="#{theme["background"]}"/>
+  <text x="55" y="82" fill="#{theme["symbol"]}" font-size="42" font-family="Arial, sans-serif" font-style="italic" font-weight="700">"</text>
+
+  <text fill="#{theme["quote"]}" font-size="34" font-family="Arial, sans-serif" font-style="italic" font-weight="600">
+    {"".join(svg_lines)}
+  </text>
+
+  <text x="930" y="{author_y}" text-anchor="end" fill="#{theme["author"]}" font-size="28" font-family="Arial, sans-serif" font-style="italic" font-weight="600">
+    — {author}
+  </text>
+</svg>
+'''
+
+SVG_PATH.write_text(svg, encoding="utf-8")
+
+print(f"Updated quote.svg with: {quote} — {author}")

@@ -1,3 +1,30 @@
-"Discipline beats motivation." — Unknown
-"Pressure is a privilege." — Billie Jean King
-"First, solve the problem. Then, write the code." — John Johnson
+Pressure is a privilege. — Billie Jean King
+Hard work beats talent when talent fails to work hard. — Kevin Durant
+Talent wins games, but teamwork and intelligence win championships. — Michael Jordan
+Some people want it to happen, some wish it would happen, others make it happen. — Michael Jordan
+I’ve failed over and over and over again in my life. And that is why I succeed. — Michael Jordan
+Excellence is not a singular act but a habit. You are what you repeatedly do. — Shaquille O'Neal
+Success is no accident. It is hard work, perseverance, learning, sacrifice, and love of what you are doing. — Pelé
+The more difficult the victory, the greater the happiness in winning. — Pelé
+I learned all about life with a ball at my feet. — Ronaldinho
+Dreams are not what you see in your sleep, dreams are things which do not let you sleep. — Cristiano Ronaldo
+Your love makes me strong, your hate makes me unstoppable. — Cristiano Ronaldo
+I start early and I stay late, day after day, year after year. It took me 17 years and 114 days to become an overnight success. — Lionel Messi
+There is no pressure when you are making a dream come true. — Neymar Jr.
+Champions keep playing until they get it right. — Billie Jean King
+Winners never quit and quitters never win. — Vince Lombardi
+The harder the battle, the sweeter the victory. — Les Brown
+First, solve the problem. Then, write the code. — John Johnson
+Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
+Computer Science is no more about computers than astronomy is about telescopes. — Edsger W. Dijkstra
+The computing scientist’s main challenge is not to get confused by the complexities of his own making. — Edsger W. Dijkstra
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. — Edsger W. Dijkstra
+The tools we use have a profound and devious influence on our thinking habits. — Edsger W. Dijkstra
+Programs must be written for people to read, and only incidentally for machines to execute. — Harold Abelson
+Talk is cheap. Show me the code. — Linus Torvalds
+Adding manpower to a late software project makes it later. — Fred Brooks
+The best minds of my generation are thinking about how to make people click ads. — Jeff Hammerbacher
+Code is like humor. When you have to explain it, it’s bad. — Cory House
+Experience is the name everyone gives to their mistakes. — Oscar Wilde
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler
+Make it work, make it right, make it fast. — Kent Beck
