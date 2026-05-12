@@ -21,7 +21,7 @@ else:
 themes = json.loads(THEMES_PATH.read_text(encoding="utf-8"))
 theme = themes[THEME_NAME]
 
-wrapped_quote = textwrap.wrap(quote, width=58)
+wrapped_quote = textwrap.wrap(quote, width=48)
 
 svg_lines = []
 start_y = 85
@@ -35,13 +35,13 @@ author_y = start_y + len(wrapped_quote) * 55 + 25
 
 svg = f'''<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="1000" height="300" rx="18" fill="#{theme["background"]}"/>
-  <text x="55" y="82" fill="#{theme["symbol"]}" font-size="42" font-family="Arial, sans-serif" font-style="italic" font-weight="700">"</text>
+  <text x="55" y="82" fill="#{theme["symbol"]}" font-size="40" font-family="Arial, Luminari" font-style="italic" font-weight="700">"</text>
 
-  <text fill="#{theme["quote"]}" font-size="34" font-family="Arial, sans-serif" font-style="italic" font-weight="600">
+  <text fill="#{theme["quote"]}" font-size="34" font-family="JetBrains Mono, Luminari" font-style="italic" font-weight="600">
     {"".join(svg_lines)}
   </text>
 
-  <text x="930" y="{author_y}" text-anchor="end" fill="#{theme["author"]}" font-size="28" font-family="Arial, sans-serif" font-style="italic" font-weight="600">
+  <text x="800" y="{author_y}" text-anchor="end" fill="#{theme["author"]}" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
     — {author}
   </text>
 </svg>
