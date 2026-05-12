@@ -22,8 +22,9 @@
 
 ---
 
+<br>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
@@ -243,17 +244,16 @@
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfarukcelik&show_icons=true&theme=radical" alt="Omerfarukcelik's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukcelik&layout=compact&theme=radical" alt="Omerfarukcelik's Top Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=omerfarukcelik&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerfarukcelik&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"> <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-  <a href="mailto:your-email@gmail.com"> <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+<p align="center">
+  <i>If you're building something meaningful and need someone who cares deeply about how it works — let's connect.</i>
+</p>
+<p align="center">
+  Thanks for stopping by 👋
 </p>
 
