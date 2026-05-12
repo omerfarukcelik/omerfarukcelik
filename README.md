@@ -1,40 +1,245 @@
-<h1 align="center">Hi 👋, I'm Omer Faruk Celik</h1>
-<h3 align="center">A passionate Developer, studing at York University</h3>
+<h1 align="center">Hey, I'm Omer Faruk Celik 👋</h1>
+<p align="center">
+  <b>Full-Stack Developer · Toronto, ON</b><br/>
+  <i>I've always wanted to know how things work under the hood — tech turned out to be the perfect place for that curiosity.</i>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omerfcelik49/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/" />
-  </a>
-  <a href="https://your-website.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:faruk.omerc@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/omerfarukcelik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:faruk.omerc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/omerfarukcelik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **SQL, Power BI and Tableau**
-- 👨‍💻 All of my projects are available at **Still in Development :)**
-- 💬 Ask me about **Graphic Designing, Data Analytics and Software Development**
-- 📫 How to reach me **faruk.omerc@gmail.com**
-- ⚡ Fun fact: **I am in love with the football**
+## 🙋 About Me
+
+- 🎓 CS grad from **Lassonde School of Engineering, York University**
+- 💼 Building **[JobTracks AI](https://github.com/omerfarukcelik/jobtracks-ai)**; a full-stack job application tracker *(in development)*
+- 🔭 Previously built a **multi-tenant mentorship platform** at Young Professionals Canada
+- 🤝 Open to **Software Developer** and **Business Analyst** roles in Toronto
+- ⚽ Galatasaray fan · 🏀 Boston Celtics fan
 
 ---
 
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-| Category        | Tools                                               |
-|-----------------|-----------------------------------------------------|
-| **Languages**   | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| **Frontend**    | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Design**      | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| **Databases**   | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) |
-| **Data Visualization**| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) |
+<table align="center">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
 
----
+  <!-- Languages -->
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" />
+  <br>Python
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" />
+  <br>JavaScript
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=typescript" width="55" height="55" />
+  <br>TypeScript
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" />
+  <br>Java
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=c" width="55" height="55" />
+  <br>C
+</td>
+
+</tr>
+</table>
+
+  </tr>
+
+  <!-- Frontend -->
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
+  <br>Next.js
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
+  <br>React
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
+  <br>HTML5
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
+  <br>CSS3
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
+  <br>Tailwind
+</td>
+
+</tr>
+</table>
+
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" />
+  <br>Django
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" />
+  <br>REST API
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" />
+  <br>Supabase
+</td>
+
+</tr>
+</table>
+
+  </tr>
+
+  <!-- Data -->
+  <tr>
+    <td><b>Data & Analytics</b></td>
+    <td>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=py" width="55" height="55" />
+  <br>Pandas
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55" />
+  <br>Jupyter
+</td>
+
+<td align="center" width="96">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="55" height="55" />
+  <br>Excel
+</td>
+
+</tr>
+</table>
+
+  </tr>
+
+  <!-- Tools -->
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" />
+  <br>GitHub
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
+  <br>Git
+</td>
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" height="55" />
+  <br>Docker
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
+  <br>Postman
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" />
+  <br>Linux
+</td>
+
+</tr>
+</table>
+
+  </tr>
+
+  <!-- Design -->
+  <tr>
+    <td><b>Design & Creative</b></td>
+    <td>
+
+<table>
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" />
+  <br>Figma
+</td>
+
+<td align="center" width="96">
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="55" height="55" />
+  <br>Photoshop
+</td>
+
+<td align="center" width="96">
+  <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" width="55" height="55" />
+  <br>Illustrator
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" />
+  <br>Android Studio
+</td>
+
+</tr>
+</table>
+
+  </tr>
+
+</table>
 
 ---
 
