@@ -1,8 +1,12 @@
-<h1 align="center">Hey, I'm Omer Faruk Celik 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Luminari&size=50&duration=3500&pause=1000&color=38bdae&stroke=70A5FD&strokeWidth=5&center=true&vCenter=true&width=900&height=70&lines=Hey+👋;I'm+Omer+Faruk+Celik;Full-Stack+Developer;Building+JobTracks+AI;Dream+Big,+Work+Hard,+Stay+Humble" />
+</h1>
 <p align="center">
   <b>Full-Stack Developer · Toronto, ON</b><br/>
   <i>I've always wanted to know how things work under the hood; tech turned out to be the perfect place for that curiosity.</i>
 </p>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omerfarukcelik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=70a5fd"/></a>
