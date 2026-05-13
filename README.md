@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Luminari&size=50&duration=3500&pause=1000&color=38bdae&stroke=70A5FD&strokeWidth=5&center=true&vCenter=true&width=900&height=70&lines=Hey+👋;I'm+Omer+Faruk+Celik;Full-Stack+Developer;Building+JobTracks+AI;Dream+Big,+Work+Hard,+Stay+Humble" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Luminari&size=48&duration=3500&pause=1000&color=38bdae&center=true&vCenter=true&width=900&height=70&lines=Hey+👋;I'm+Omer+Faruk+Celik;Full-Stack+Developer;Building+JobTracks+AI;Dream+Big,+Work+Hard,+Stay+Humble" />
 </h1>
 <p align="center">
   <b>Full-Stack Developer · Toronto, ON</b><br/>
@@ -249,8 +249,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=omerfarukcelik&theme=tokyonight&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=omerfarukcelik&theme=tokyonight&hide_border=false)&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=omerfarukcelik&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
 ---
 ### ⚡ Random Quote
