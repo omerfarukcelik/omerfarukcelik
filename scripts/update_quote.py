@@ -1,6 +1,7 @@
 import random
 import json
 import textwrap
+import time
 from pathlib import Path
 
 QUOTES_PATH = Path("quotes.txt")
@@ -48,5 +49,17 @@ svg = f'''<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmln
 '''
 
 SVG_PATH.write_text(svg, encoding="utf-8")
+
+readme_path = Path("README.md")
+readme = readme_path.read_text(encoding="utf-8")
+
+new_version = str(int(time.time()))
+
+readme = readme.replace(
+    readme[readme.find("quote.svg?v="):].split('"')[0],
+    f"quote.svg?v={new_version}"
+)
+
+readme_path.write_text(readme, encoding="utf-8")
 
 print(f"Updated quote.svg with: {quote} — {author}")
