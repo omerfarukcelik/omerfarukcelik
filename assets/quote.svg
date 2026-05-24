@@ -3,10 +3,10 @@
   <text x="55" y="82" fill="#bf91f3" font-size="40" font-family="Arial, Luminari" font-style="italic" font-weight="700">"</text>
 
   <text fill="#38bdae" font-size="34" font-family="JetBrains Mono, Luminari" font-style="italic" font-weight="600">
-    <tspan x="70" y="85">Success is no accident. It is hard work,</tspan><tspan x="70" y="130">perseverance, learning, sacrifice, and love of</tspan><tspan x="70" y="175">what you are doing.</tspan>
+    <tspan x="70" y="85">The best minds of my generation are thinking</tspan><tspan x="70" y="130">about how to make people click ads.</tspan>
   </text>
 
-  <text x="800" y="275" text-anchor="end" fill="#70a5fd" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
-    — Pelé
+  <text x="800" y="220" text-anchor="end" fill="#70a5fd" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
+    — Jeff Hammerbacher
   </text>
 </svg>
