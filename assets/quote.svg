@@ -3,10 +3,10 @@
   <text x="55" y="82" fill="#bf91f3" font-size="40" font-family="Arial, Luminari" font-style="italic" font-weight="700">"</text>
 
   <text fill="#38bdae" font-size="34" font-family="JetBrains Mono, Luminari" font-style="italic" font-weight="600">
-    <tspan x="70" y="85">Programs must be written for people to read, and</tspan><tspan x="70" y="130">only incidentally for machines to execute.</tspan>
+    <tspan x="70" y="85">The harder the battle, the sweeter the victory.</tspan>
   </text>
 
-  <text x="800" y="220" text-anchor="end" fill="#70a5fd" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
-    — Harold Abelson
+  <text x="800" y="165" text-anchor="end" fill="#70a5fd" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
+    — Les Brown
   </text>
 </svg>
