@@ -3,10 +3,10 @@
   <text x="55" y="82" fill="#bf91f3" font-size="40" font-family="Arial, Luminari" font-style="italic" font-weight="700">"</text>
 
   <text fill="#38bdae" font-size="34" font-family="JetBrains Mono, Luminari" font-style="italic" font-weight="600">
-    <tspan x="70" y="85">If debugging is the process of removing software</tspan><tspan x="70" y="130">bugs, then programming must be the process of</tspan><tspan x="70" y="175">putting them in.</tspan>
+    <tspan x="70" y="85">Computer Science is no more about computers than</tspan><tspan x="70" y="130">astronomy is about telescopes.</tspan>
   </text>
 
-  <text x="800" y="275" text-anchor="end" fill="#70a5fd" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
+  <text x="800" y="220" text-anchor="end" fill="#70a5fd" font-size="28" font-family="Space Grotesk, Luminari" font-weight="600">
     — Edsger W. Dijkstra
   </text>
 </svg>
