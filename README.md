@@ -257,7 +257,7 @@
 ### ⚡ Random Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omerfarukcelik/omerfarukcelik/main/assets/quote.svg?v=1793297477" />
+  <img src="https://raw.githubusercontent.com/omerfarukcelik/omerfarukcelik/main/assets/quote.svg?v=1793382570" />
 </p>
 
 ---
